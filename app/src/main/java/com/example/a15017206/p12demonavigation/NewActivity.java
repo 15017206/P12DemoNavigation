@@ -1,8 +1,8 @@
 package com.example.a15017206.p12demonavigation;
 
+import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 public class NewActivity extends AppCompatActivity {
 
